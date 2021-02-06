@@ -1,2 +1,2 @@
 # podcastDA
-Analyzing (spoken) dialogues within and between podcast episode using AI models.
+Analyzing (spoken) dialogues within and between podcast episodes using AI models.
