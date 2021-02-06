@@ -1,2 +1,2 @@
 # podcastDA
-Analyzing (spoken) dialogues in Spotify's podcasts
+Analyzing (spoken) dialogues within and between podcast episode using AI models.
